@@ -37,8 +37,8 @@
 
 ---
 
-<!-- Yalnızca dark mod için snake animasyonu -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maruf-eng/maruf-eng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maruf-eng/maruf-eng/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/maruf-eng/maruf-eng/output/github-contribution-grid-snake-dark.svg">
 </picture>
